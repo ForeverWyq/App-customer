@@ -1,8 +1,9 @@
 <template>
   <div class="home">
+    <van-nav-bar title="主页"/>
     <!-- 头部图片 -->
     <header class="header">
-      <img src="../../assets/home.jpg" alt="">
+      <img src="../../assets/home.png" alt="">
     </header>
     <!-- 内容区域 -->
     <div>
